@@ -1,0 +1,23 @@
+<pattern>
+	<name>Delegate</name>
+	<classification>
+		<type>modifier</type>
+		<target>
+			<type>object</type>
+		</target>
+	</classification>
+	<outputs>
+		<actions>
+			<function>
+				<target>
+					<type>object</type>
+					<name>delegate</name>
+				</target>
+				<takes>
+				</takes>
+				<returns>
+				</returns>
+			</function>
+		</actions>
+	</outputs>
+</pattern>
